@@ -12,6 +12,7 @@
  * @e: number of elements in m
  * @f: input complete
  */
+
 void _type(char **p, int L, char *l, int i, char **v, char **m, int e, char *f)
 {
 	unsigned int  c = 0, flag = 0;
